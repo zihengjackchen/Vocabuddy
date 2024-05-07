@@ -1,16 +1,5 @@
 # Vocabuddy
 
-## Team Information
-|   Role      |        Description     |
-| ----------- | ---------------------- |
-| Captain     |        Jack Chen       |
-| Captain     |  zihengc2@illinois.edu |
-| Member2     |       Erika Lee        |
-| Member2     | ihsuanl2@illinois.edu  |
-| Member3     |      Joanne Chou       |
-| Member3     | yenchou2@illinois.edu  |
-
-
 ## Summary
 
 We are trying to develop web-based application called Vocabuddy specifically designed for learners preparing for standard tests such as ACT, SAT, and GRE. The design is focused on mastering the extensive vocabulary required for the exam. This application offers a streamlined, browser-accessible approach to vocabulary learning, removing the need for cumbersome app downloads. On top of providing dictionary like services, Vocabuddy encourages users to personalize their study plans with test-specific goals, prompting a series of interactive exercises, quizzes, and learning tools designed to master the exam's challenging vocabulary section.
@@ -26,3 +15,16 @@ User can searh for words, check school detail, and check site statistics when no
 https://github.com/zihengjackchen/Vocabuddy/assets/79237806/c771d0d3-cc8f-4adf-9b30-8e38cda727e3
 
 User can study words and check their own progress when logged in.
+
+
+
+## Team Information
+|   Role      |        Description     |
+| ----------- | ---------------------- |
+| Captain     |        Jack Chen       |
+| Captain     |  zihengc2@illinois.edu |
+| Member2     |       Erika Lee        |
+| Member2     | ihsuanl2@illinois.edu  |
+| Member3     |      Joanne Chou       |
+| Member3     | yenchou2@illinois.edu  |
+
