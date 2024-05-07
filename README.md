@@ -18,8 +18,11 @@ We are trying to develop web-based application called Vocabuddy specifically des
 Vocabuddy includes features for tracking vocabulary progress in real-time, which will allow learners to have a visual understanding of their mastery of words. Furthermore, Vocabuddy encourages a collaborative study environment, where users can connect, share progress, and challenge each other on GRE vocabulary quizzes. By leveraging search algorithms, the platform also offers personalized vocabulary recommendations based on study history and other parameters, ensuring learners are focusing on the most relevant and important words for the test. The ultimate goal is to make the verbal preparation of GRE tobe engaging, manageable, and effective.
 
 ## Demo
-![not logged in](./demo/logged_in.mp4)
+
+https://github.com/zihengjackchen/Vocabuddy/assets/79237806/144d1a76-60f6-4cc3-b0f6-3b1afa2e0b5b
+
 User can searh for words, check school detail, and check site statistics when nog logged in.
 
-https://github.com/zihengjackchen/Vocabuddy/raw/main/demo/logged_in.mp4?raw=1
+https://github.com/zihengjackchen/Vocabuddy/assets/79237806/c771d0d3-cc8f-4adf-9b30-8e38cda727e3
+
 User can study words and check their own progress when logged in.
